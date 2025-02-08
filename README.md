@@ -2,7 +2,8 @@
 
 ## About me
 
-I'm a web developer in training and a UI/UX design enthusiast ⚡! ![visitors](https://visitor-badge.glitch.me/badge?Maxime422.FIRST_PROFILE_README.md)
+I'm a web developer in training and a UI/UX design enthusiast ⚡! 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?Maxime422.FIRST_PROFILE_README.md) -->
 
 I love creating and collaborating on new projects, while discovering new things every day! 🚀
 
