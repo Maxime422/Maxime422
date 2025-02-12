@@ -60,4 +60,4 @@ I love creating and collaborating on new projects, while discovering new things 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...) -->
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](...) -->
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maxime422&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&hide=prs&langs_count=10" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime422&&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxime422&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&hide=prs&langs_count=10" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime422&&show_icons=true&count_private=true&theme=dark&hide_border=true" />
