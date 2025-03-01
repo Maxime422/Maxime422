@@ -30,8 +30,8 @@ I love creating and collaborating on new projects, while discovering new things 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) -->
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Frameworks / IDE / Version Control:
 
@@ -60,5 +60,4 @@ I love creating and collaborating on new projects, while discovering new things 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...) -->
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](...) -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxime422&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&hide=prs&langs_count=10" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime422&&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxime422&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&hide=prs&langs_count=10" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime422&&show_icons=true&count_private=true&theme=dark&hide_border=true" />
