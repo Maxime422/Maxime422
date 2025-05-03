@@ -8,14 +8,14 @@ I love building innovative projects, collaborating with others, and learning som
 ### Technical Skills:
 * Web & Mobile Development 💻
 * Frameworks & Libraries: Tailwind CSS, Vue.js, Symfony 🛠️
-* Testing & Debugging 🐞
-* Database Management (MySQL) 🗄️
+* Testing & Debugging: Cypress, EsLint, ... 🐞
+* Database Management: MySQL 🗄️
 
 ### Creative Skills:
-* UI/UX Design (Figma) 🎨
-* Graphic Design (Illustrator, Canva) 🖌️
-* Video Editing (Premiere Pro) 🎬
-* Audio Production (Reaper) 🎶
+* UI/UX Design: Figma 🎨
+* Graphic Design: Illustrator, Canva 🖌️
+* Video Editing: Premiere Pro 🎬
+* Audio Production: Reaper 🎶
 
 ## Personal Interests
 * Hosting independent radio shows 📻
