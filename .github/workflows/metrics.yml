@@ -11,9 +11,10 @@ jobs:
       contents: write
     steps:
       - name: "Left — Activity, calendar & languages"
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics-left.svg
           user: Maxime422
           template: classic
@@ -30,12 +31,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-        
 
       - name: "Right — Repos & topics"
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics-right.svg
           user: Maxime422
           template: classic
