@@ -25,8 +25,13 @@
 >
 > <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,prisma,postgresql,html,css,scss,js,ts,php,mysql,git,github,vscode,docker,vercel,composer,figma,illustrator,canva&theme=dark&titles=true&perline=50" height="20" />
 
-[<img align="left" width="49%" alt="Activity & Languages" src="metrics-left.svg">](#)
-[<img align="right" width="49%" alt="Repos & Topics" src="metrics-right.svg">](#)
-[<img width="100%" height="1" src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.placeholder.svg">](#)
-
-<sub>Generated with [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="metrics-left.svg" alt="Activity &amp; Languages" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="metrics-right.svg" alt="Repos &amp; Topics" width="100%" />
+    </td>
+  </tr>
+</table>
