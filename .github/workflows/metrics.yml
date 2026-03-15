@@ -21,14 +21,15 @@ jobs:
           config_twemoji: yes
           config_octicon: yes
           base: header, activity, community
+          plugin_introduction: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_limit: 50
+          plugin_languages_limit: 8
+          plugin_languages_ignored: hack
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
-          plugin_languages_categories: markup, programming
         
 
       - name: "Right — Repos & topics"
@@ -43,6 +44,6 @@ jobs:
           config_octicon: yes
           base: repositories, metadata
           plugin_topics: yes
-          plugin_topics_limit: 80
+          plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_topics_sort: starred
