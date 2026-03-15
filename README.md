@@ -27,10 +27,10 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <img src="metrics-left.svg" alt="Activity &amp; Languages" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <img src="metrics-right.svg" alt="Repos &amp; Topics" width="100%" />
     </td>
   </tr>
