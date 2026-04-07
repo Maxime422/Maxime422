@@ -7,7 +7,7 @@
 > [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/maximegermis/projects)
 >
 > <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://VOTRE_SITE.com) -->
-> <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/VOTRE_INSTAGRAM) -->
+> <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xxxx) -->
 >
 > I'm a web developer driven by two obsessions: building projects that actually mean something, and the interfaces that carry them. Not just "does it work" but "does it feel right, does it belong here, does it sound like the person behind it."
 >
