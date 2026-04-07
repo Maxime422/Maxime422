@@ -20,6 +20,7 @@
 > - [x] [`Astra-Greta`] Build a complete PHP full-stack IT asset management platform from scratch _(done)_
 > - [ ] [`Integra`] Project management, task tracking and team collaboration tool
 > - [ ] [`Library`] React component library paired with a Figma design system
+> - [ ] [`Chronos`] A modular platform designed to automate prospecting and opportunity discovery (jobs, clients, etc.).
 > - [ ] [`Portfolio`] Personal portfolio website
 >
 > **Tech Stack & Tools**
