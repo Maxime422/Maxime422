@@ -21,6 +21,7 @@
 > - [ ] [`Integra`] Project management, task tracking and team collaboration tool
 > - [ ] [`Library`] React component library paired with a Figma design system
 > - [ ] [`Chronos`] A modular platform designed to automate prospecting and opportunity discovery (jobs, clients, etc.)
+> - [ ] [`Holos`] Life Engineering ecosystem merging biometric data, habit tracking, and skill progression into a performance dashboard
 > - [ ] [`Three.js`] An immersive browser-based game built with Three.js
 > - [ ] [`Portfolio`] Personal portfolio website
 >
