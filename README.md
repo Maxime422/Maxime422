@@ -19,7 +19,7 @@
 >
 > - [x] [`Astra-Greta`] Build a complete PHP full-stack IT asset management platform from scratch _(done)_
 > - [ ] [`Integra`] Project management, task tracking and team collaboration tool
-> - [ ] [`Library`] React component library paired with a Figma design system _(in development)_
+> - [ ] [`Library`] React component library paired with a Figma design system _(UI Kit in progress)_
 > - [ ] [`Chronos`] A modular platform designed to automate prospecting and opportunity discovery (jobs, clients, etc.) _(in development)_
 > - [ ] [`Holos`] A life-management Application ecosystem to sync health metrics, developer productivity and personal discipline into one dashboard _(in development)_
 > - [ ] [`Three.js`] An immersive browser-based game built with Three.js
