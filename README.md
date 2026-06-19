@@ -11,6 +11,7 @@
 >
 > I'm a web developer driven by two obsessions: building projects that actually mean something, and the interfaces that carry them. Not just "does it work" but "does it feel right, does it belong here, does it sound like the person behind it."
 >
+> 
 > Design and development rarely speak the same language. I'm trying to be fluent in both.
 >
 > _Beyond code: radio shows, graphic design, sports, civic volunteering and community engagement._
@@ -19,7 +20,7 @@
 >
 > - [x] [`Astra-Greta`] Build a complete PHP full-stack IT asset management platform from scratch _(done)_
 > - [ ] [`Integra`] Project management, task tracking and team collaboration tool
-> - [ ] [`Library`] React component library paired with a Figma design system _(UI Kit in progress)_
+> - [ ] [`Library`] React component library paired with a Figma design system _(UI Kit Figma in progress)_
 > - [ ] [`Chronos`] A modular platform designed to automate prospecting and opportunity discovery (jobs, clients, etc.) _(in development)_
 > - [ ] [`Holos`] A life-management Application ecosystem to sync health metrics, developer productivity and personal discipline into one dashboard _(in development)_
 > - [ ] [`Three.js`] An immersive browser-based game built with Three.js
