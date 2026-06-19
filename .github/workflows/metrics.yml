@@ -13,7 +13,7 @@ jobs:
       - name: "Left — Activity, calendar & languages"
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics-left.svg
           user: Maxime422
@@ -35,7 +35,7 @@ jobs:
       - name: "Right — Repos & topics"
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics-right.svg
           user: Maxime422
