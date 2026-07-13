@@ -24,6 +24,7 @@
 > - [ ] [`Holos`] A life-management Application ecosystem to sync health metrics, developer productivity and personal discipline into one dashboard _(in development)_
 > - [ ] [`Three.js`] An immersive browser-based game built with Three.js
 > - [ ] [`Portfolio`] Personal portfolio website _(in development)_
+> - [ ] [`Knowledge Base`] Personal documentation platform synchronized with Notion for managing and accessing my development notes. _(in development)_
 >
 > **Tech Stack & Tools**
 >
